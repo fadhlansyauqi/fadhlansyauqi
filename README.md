@@ -15,7 +15,7 @@ I'm a graduate of the D3 Software Engineering Application program from Telkom Un
 </p>
 
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>About Me!</strong></summary>
 <p>
     - :keyboard: I’m currently focus on web programming. </br>
     - :speech_balloon: Ask me about anything.</br>
@@ -26,7 +26,7 @@ I'm a graduate of the D3 Software Engineering Application program from Telkom Un
 <a href="[https://twitter.com/yours](https://www.linkedin.com/in/fadhlansyauqi/)">
   <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
 </a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+<a href="https://www.instagram.com/fadhlansyauqi/">
+  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/E4405F" />
 </a>
 
