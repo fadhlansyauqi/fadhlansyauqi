@@ -1,20 +1,21 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+# <summary><strong>Hi there :wave: , I'm Muhammad Fadhlan Sya'uqi!</strong></summary>
+I'm a graduate of the D3 Software Engineering Application program from Telkom University, specializing in full-stack web programming. I am proficient in HTML, CSS, JavaScript, PHP, and familiar with several frameworks such as Bootstrap, Laravel, Livewire and currently learning ReactJS. Additionally, I am experienced with databases like MySQL and PostgreSQL.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+     <img src="https://img.shields.io/badge/PHP-blue?&logo=php&logoColor=blue" />
 </p>
+
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently focus on web programming. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
+    - :mailbox: How to reach me: <a href="mailto:adhansyauqi@gmail.com">Email me!</a>  </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
