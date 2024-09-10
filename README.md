@@ -24,7 +24,7 @@ I'm a graduate of the D3 Software Engineering Application program from Telkom Un
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="[https://twitter.com/yours](https://www.linkedin.com/in/fadhlansyauqi/)">
+<a href="https://www.linkedin.com/in/fadhlansyauqi/">
   <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
 </a>
 <a href="https://www.instagram.com/fadhlansyauqi/">
