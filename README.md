@@ -8,6 +8,7 @@ I'm a graduate of the D3 Software Engineering Application program from Telkom Un
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
      <img src="https://img.shields.io/badge/PHP-purple?&logo=php&logoColor=black" />
+    <img src="https://img.shields.io/badge/Laravel-#FF2D20?&logo=laravel&logoColor=black" />
 </p>
 
 
