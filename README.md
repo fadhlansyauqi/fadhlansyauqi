@@ -7,9 +7,11 @@ I'm a graduate of the D3 Software Engineering Application program from Telkom Un
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-     <img src="https://img.shields.io/badge/Code-PHP-green?&logo=php&logoColor=%777BB4" />
-    <img src="https://img.shields.io/badge/Framework-Laravel-green?&logo=laravel&logoColor=%23FF2D20" />
-    <img src="https://img.shields.io/badge/Library-Livewire-green?&logo=livewire&logoColor=%4E56A6" />
+     <img src="https://img.shields.io/badge/Code-PHP-orange?&logo=php&logoColor=%777BB4" />
+    <img src="https://img.shields.io/badge/Framework-Laravel-orange?&logo=laravel&logoColor=%23FF2D20" />
+    <img src="https://img.shields.io/badge/Framework-Livewire-orange?&logo=livewire&logoColor=%4E56A6" />
+    <img src="https://img.shields.io/badge/DB-MySQL-green?&logo=mysql&logoColor=%4479A1" />
+    <img src="https://img.shields.io/badge/DB-PostgreSQL-green?&logo=postgresql&logoColor=%4169E1" />
 </p>
 
 
