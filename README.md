@@ -1,8 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Muhammad Fadhlan Sya'uqi!</strong></summary>
-I'm a graduate of the D3 Software Engineering Application program from Telkom University, specializing in full-stack web programming. I am proficient in HTML, CSS, JavaScript, PHP, and familiar with several frameworks such as Bootstrap, Laravel, Livewire and currently learning ReactJS. Additionally, I am experienced with databases like MySQL and PostgreSQL.
+I'm a graduate of the D3 Software Engineering Application program from Telkom University, specializing in full-stack web programming. I am proficient in HTML, CSS, JavaScript, PHP, and familiar with several frameworks such as Bootstrap, Laravel, and Livewire. Additionally, I am experienced with databases like MySQL and PostgreSQL.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
